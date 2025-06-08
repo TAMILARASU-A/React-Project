@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MVP-Intern/static/css/main.cc59f57c.css",
+    "main.js": "/MVP-Intern/static/js/main.a85975ef.js",
+    "static/js/584.729d3007.chunk.js": "/MVP-Intern/static/js/584.729d3007.chunk.js",
+    "index.html": "/MVP-Intern/index.html",
+    "main.cc59f57c.css.map": "/MVP-Intern/static/css/main.cc59f57c.css.map",
+    "main.a85975ef.js.map": "/MVP-Intern/static/js/main.a85975ef.js.map",
+    "584.729d3007.chunk.js.map": "/MVP-Intern/static/js/584.729d3007.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc59f57c.css",
+    "static/js/main.a85975ef.js"
+  ]
+}
